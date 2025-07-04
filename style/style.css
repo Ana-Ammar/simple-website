@@ -8,3 +8,28 @@ h1{
     text-decoration:overline;
     color:beige;
 }
+#dv{
+    display: inline-block;
+}
+.dv{
+    background-color: beige;
+    border: 5px solid black;
+    border-radius: 20px 0px 20px 0px;
+    padding-right: 30px;
+    box-shadow: 10px 10px 10px;
+}
+.pi{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:700;
+    font-style: italic;
+    margin-left: 40px;
+}
+.qt{
+    text-decoration: underline;
+    font-style: italic;
+}
+.ll{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: circle;
+}
